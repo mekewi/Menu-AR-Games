@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pascale_SinnottChall_Deadpool_Lo" size="1.000000 1.535000" />
+    <ImageTarget name="mandala" size="1.000000 1.000000" />
+    <ImageTarget name="PolyA" size="1.000000 0.532937" />
+    <ImageTarget name="klash" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
